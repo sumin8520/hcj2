@@ -14,7 +14,7 @@ const Header = () => {
           <div className="flex items-center font-bold">
             <Link
               href="/dashboard"
-              className=" text-blue-300 hover:text-white mr-4"
+              className=" text-yellow-300 hover:text-white mr-4"
             >
               대시보드
             </Link>
